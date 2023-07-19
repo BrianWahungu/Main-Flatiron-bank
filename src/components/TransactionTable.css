@@ -1,0 +1,15 @@
+/* TransactionTable.css */
+.table-container {
+    border: 1px solid lightgrey;
+    width: 100%;
+    border-collapse: collapse;
+    padding: 10px;
+  }
+  
+  .table-container th,
+  .table-container td {
+    border: 1px solid lightgrey;
+    padding: 8px;
+    background-color: white;
+  }
+  

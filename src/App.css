@@ -1,0 +1,13 @@
+body {
+  background-color: blue;
+}
+/* App.css */
+.app-container {
+  position: relative; /* Ensure relative positioning for absolute elements inside */
+}
+
+.search-bar-container {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
